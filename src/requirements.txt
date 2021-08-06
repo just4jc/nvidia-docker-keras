@@ -1,5 +1,5 @@
 h5py==2.7.*
-Keras==2.1.*
+Keras==2.6.0rc3*
 numpy==1.14.*
 PyYAML==3.*
 scipy==1.1.*
