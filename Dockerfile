@@ -1,4 +1,4 @@
-FROM tensorflow/tensorflow:latest-py3
+FROM tensorflow/tensorflow:2.2.1-py3
 
 # Install system packages
 RUN apt-get update && apt-get install -y --no-install-recommends \
