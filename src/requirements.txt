@@ -1,6 +1,6 @@
 h5py==2.7.*
 Keras==2.1.*
-numpy==1.14.*
+numpy==1.22.2*
 PyYAML==3.*
 scipy==1.1.*
 six==1.11.*
